@@ -3,7 +3,9 @@
 **TECHNOLOGY STACK**
 
 **Frontend:** React, React Router, Cloudinary
+
 **Backend:** Node.js, Express, MongoDB, Socket.io
+
 **Deployment:** Render
 
 The App is accessible at the following website: 
